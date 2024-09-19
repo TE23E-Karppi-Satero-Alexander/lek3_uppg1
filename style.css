@@ -1,0 +1,37 @@
+/* Namn: Alexander Karppi Säterö
+Klass:TE23E */
+
+body{
+    background-image: url(./img/moorish-pattern_644416-582.jpg);
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    color:#56eee1;
+    background-color:#521818;
+    text-align: right;
+}
+
+ul{
+    background-color: #394540;
+}
+
+a{
+    color:#69ff47 ;
+}
+
+a:hover{
+    color: indigo;
+    background-color: aqua;
+}
+
+a:active{
+    color:greenyellow;
+    background-color:tomato;
+}
+
+img {
+    height:400px;
+    width:400px;
+}
